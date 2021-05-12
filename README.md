@@ -5,7 +5,8 @@
 
 - Esse script busca CEP's de todo o Brasil, faz as consultas e te retorna os dados
 - Para fazê-lo eu utilizei a API da ViaCep
-
+- Ele está configurado para linux, linux2 e windows
+- 
 - By lucas-Dk
 
 # Erro ao usar?
