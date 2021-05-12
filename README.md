@@ -7,3 +7,6 @@
 - Para fazê-lo eu utilizei a API da ViaCep
 
 - By lucas-Dk
+
+# Erro ao usar?
+- Tente dar o comando: pip install -r requirements.txt
